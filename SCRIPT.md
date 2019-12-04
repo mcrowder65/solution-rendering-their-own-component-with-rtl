@@ -39,3 +39,5 @@ Circle.defaultProps = {
   dimensions: { diameter: 200 }
 }
 ```
+
+Now we can see that the circle tests are passing
