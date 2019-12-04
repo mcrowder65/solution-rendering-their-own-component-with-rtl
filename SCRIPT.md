@@ -7,7 +7,7 @@ Now let's open the file and write our test.
 ```js
 import React from "react"
 import { render } from "@testing-library/react"
-import Circle from "../circle.js"
+import Circle from "../circle"
 
 test("renders", () => {
   render(<Circle />)
