@@ -1,9 +1,4 @@
-Since we were tasked with created an individual test for circle.js, let's create that test file in our `__tests__` directory.
-
-Create the file in codesandbox under `src/__tests__/circle.test.js`
-
-Now let's open the file and write our test.
-
+Let's write the test for circle.test.js
 ```js
 import React from "react"
 import { render } from "@testing-library/react"
