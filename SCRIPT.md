@@ -9,7 +9,7 @@ test("renders", () => {
 })
 ```
 
-Now you'll see that the test is actually failing, why is that? Maybe it's because Circle is expecting certain props to be provided but they weren't provided.
+Now you'll see that the test is actually failing because Circle is expecting certain props to be provided but they weren't provided.
 
 A way around this would be to include dimensions, and that will solve our problem.
 
