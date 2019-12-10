@@ -1,3 +1,8 @@
+//
+// 1. Create a circle.test.js file
+// 2. Test that circle will render with no provided props
+//
+
 import React from "react"
 import Circle from "./circle"
 

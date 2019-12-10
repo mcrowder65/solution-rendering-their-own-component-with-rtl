@@ -15,7 +15,10 @@ const Circle = props => {
 }
 
 Circle.defaultProps = {
-  backgroundColor: "blue"
+  backgroundColor: "blue",
+  dimensions: {
+    diameter: 200
+  }
 }
 
 export default Circle
